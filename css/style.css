@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(blueviolet, aqua);
+    color: crimson;
+    text-align: center;
+    font-size: 20px;
+}
+
+.head {
+    color: crimson;
+    font-size: 50px;
+}
+
+.heads {
+    font-size: 35px;
+    color: crimson;
+}
+
+.img {
+    width: 250px;
+    height: 250px;
+
+
+}
+.info {
+    color: blueviolet;
+    font-size: 35px;
+}
+
+p{
+    font-size: 30px;
+
+}
